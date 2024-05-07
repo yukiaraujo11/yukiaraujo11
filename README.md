@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yukiaraujo11
 - 👀 I’m interested in ... HTML, CSS, javascript, PHP, Java, Python, MySQL.
-- 🌱 I’m currently learning ... Front end
+- 🌱 I’m currently learning ... Front end with JS, Typescript and PHP/ Banco de dados with SQL server
 - 💞️ I’m looking to collaborate on ... Desenvolvimento WEB
 - 📫 How to reach me ... yuki.araujo11@gmail.com
 
